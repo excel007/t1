@@ -1,4 +1,5 @@
 Test file T1
+<<<<<<< HEAD
 111
 1
 
@@ -10,3 +11,7 @@ Test file T1
 from file 11.txt
 
 master branch
+=======
+
+from file 11.txt
+>>>>>>> origin/b1
