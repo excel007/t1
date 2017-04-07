@@ -1,5 +1,8 @@
 Test file T1
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> refs/remotes/origin/master
 111
 1
 
@@ -7,11 +10,14 @@ Test file T1
 1
 1
 1
+<<<<<<< HEAD
 
 from file 11.txt
 
 master branch
 =======
+=======
+>>>>>>> refs/remotes/origin/master
 
 from file 11.txt
 >>>>>>> origin/b1
